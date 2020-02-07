@@ -8,6 +8,15 @@ const Interest = () => {
       <div className='Interest-item'>
         <p>Nombre interes: Backend</p>
       </div>
+
+      <div className='Interest-item'>
+        <p>Nombre interes: Backend</p>
+      </div>
+
+      <div className='Interest-item'>
+        <p>Nombre interes: Backend</p>
+      </div>
+      
     </section>
   );
 };

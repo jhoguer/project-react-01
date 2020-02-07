@@ -9,6 +9,16 @@ const Languages = () => {
         <p>English</p>
         <p>Nivel</p>
       </div>
+
+      <div className='Languages-item'>
+        <p>English</p>
+        <p>Nivel</p>
+      </div>
+
+      <div className='Languages-item'>
+        <p>English</p>
+        <p>Nivel</p>
+      </div>
     </section>
   );
 };

@@ -12,6 +12,20 @@ const Skills = () => {
         </span>
       </div>
 
+      <div className='Skills-item'>
+        <p>Nombre Tecnologia</p>
+        <span>
+          <img src='/' alt='logo' />
+        </span>
+      </div>
+
+      <div className='Skills-item'>
+        <p>Nombre Tecnologia</p>
+        <span>
+          <img src='/' alt='logo' />
+        </span>
+      </div>
+
     </section>
   );
 };

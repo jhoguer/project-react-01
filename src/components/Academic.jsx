@@ -10,6 +10,18 @@ const Academic = () => {
         <p>Descripcion</p>
         <p>fecha</p>
       </div>
+
+      <div className='Academic-item'>
+        <h4>Nombre escuela</h4>
+        <p>Descripcion</p>
+        <p>fecha</p>
+      </div>
+
+      <div className='Academic-item'>
+        <h4>Nombre escuela</h4>
+        <p>Descripcion</p>
+        <p>fecha</p>
+      </div>
     </section>
   );
 };
